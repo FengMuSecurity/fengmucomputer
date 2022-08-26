@@ -26,11 +26,11 @@ Welcome to FengMuSecurity's webside.
 
 
 ## 新闻
-### 报毒名称简单解释 [查看](virusname.html)
+### 报毒名称简单解释 [查看](fengmucomputer/source/_posts/virusname.md)
 ### SHA-2修复工具 [查看](fengmucomputer/source/_posts/fix.md)
-### 论坛搭建完成 [查看](newbbs.html)
+### 论坛搭建完成 [查看](fengmucomputer/source/_posts/newbbs.md)
 
-More info: [Generating](https://hexo.io/docs/generating.html)
+
 
 
 
@@ -41,5 +41,5 @@ More info: [Generating](https://hexo.io/docs/generating.html)
 [Kaspersky官方样本上报站点OpenTip](https://opentip.kaspersky.com/)
 
 
-[更新日志](updata.html)
-[系统急救箱](systools.html)
+[更新日志](fengmucomputer/source/_posts/updata.md)
+[系统急救箱](fengmucomputer/source/_posts/systools.md)
