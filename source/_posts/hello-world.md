@@ -27,7 +27,7 @@ Welcome to FengMuSecurity's webside.
 
 ## 新闻
 ### 报毒名称简单解释 [查看](virusname.html)
-### SHA-2修复工具 [查看](fix.md)
+### SHA-2修复工具 [查看](fengmucomputer/source/_posts/fix.md)
 ### 论坛搭建完成 [查看](newbbs.html)
 
 More info: [Generating](https://hexo.io/docs/generating.html)
