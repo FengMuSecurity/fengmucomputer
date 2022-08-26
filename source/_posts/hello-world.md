@@ -32,10 +32,14 @@ Welcome to FengMuSecurity's webside.
 
 More info: [Generating](https://hexo.io/docs/generating.html)
 
-### Deploy to remote sites
 
-```bash
-$ hexo deploy
-```
 
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+##### 友情链接
+[火绒安全官方论坛](bbs.huorong.cn)
+[卡饭论坛](bbs.kafan.cn)
+[x64论坛](https://bbs.x64.site/)
+[Kaspersky官方样本上报站点OpenTip](https://opentip.kaspersky.com/)
+
+
+[更新日志](updata.html)
+[系统急救箱](systools.html)
